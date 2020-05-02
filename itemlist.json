@@ -1,0 +1,100 @@
+{
+	"items": [{
+			"SerialNumber": "100",
+			"Name": "Tomato",
+			"Quantity": "10",
+			"Unit": "1",
+			"Department": "Vegetables",
+			"Notes": "Fully ripe - RED"
+		},
+		{
+			"SerialNumber": "101",
+			"Name": "Onion",
+			"Quantity": "50",
+			"Unit": "5",
+			"Department": "Vegetables",
+			"Notes": "Medium Size - Home Grown"
+		},
+		{
+			"SerialNumber": "102",
+			"Name": "Potato",
+			"Quantity": "25",
+			"Unit": "5",
+			"Department": "Vegetables",
+			"Notes": "Large Size"
+		},
+		{
+			"SerialNumber": "103",
+			"Name": "Spinach",
+			"Quantity": "50",
+			"Unit": "5",
+			"Department": "Vegetables",
+			"Notes": "Flat Leafed - Green"
+		},
+		{
+			"SerialNumber": "200",
+			"Name": "Plates - Designer",
+			"Quantity": "500",
+			"Unit": "10",
+			"Department": "Crockery",
+			"Notes": "White Plates with red stripes and yellow flowers"
+		},
+		{
+			"SerialNumber": "201",
+			"Name": "Cups",
+			"Quantity": "500",
+			"Unit": "10",
+			"Department": "Crockery",
+			"Notes": "Crystal Clear with grooves"
+		},
+		{
+			"SerialNumber": "202",
+			"Name": "Jars",
+			"Quantity": "100",
+			"Unit": "10",
+			"Department": "Crockery",
+			"Notes": "Big Size - 15 Litres"
+		},
+		{
+			"SerialNumber": "203",
+			"Name": "Bucket",
+			"Quantity": "10",
+			"Unit": "1",
+			"Department": "Crockery",
+			"Notes": "50 Litre - Yellow"
+		},
+		{
+			"SerialNumber": "300",
+			"Name": "Chicken",
+			"Quantity": "50",
+			"Unit": "1",
+			"Department": "Meat",
+			"Notes": "Fully grown - Boneless - Female"
+		},
+		{
+			"SerialNumber": "301",
+			"Name": "Beef",
+			"Quantity": "100",
+			"Unit": "10",
+			"Department": "Meat",
+			"Notes": "Frozen"
+		},
+		{
+			"SerialNumber": "302",
+			"Name": "Duck",
+			"Quantity": "250",
+			"Unit": "25",
+			"Department": "Meat",
+			"Notes": "Frozen"
+		},
+		{
+			"SerialNumber": "303",
+			"Name": "Lamb",
+			"Quantity": "150",
+			"Unit": "5",
+			"Department": "Meat",
+			"Notes": "Best for Kebab"
+		}
+
+	]
+}
